@@ -14,5 +14,7 @@
 #### Pipe.java - the generation and motion of obstacles
 >In order for our obstacles to move, enter the page Speed variable. Since we have two obstacles and they are on the same level X, we create one variable x and two variables Y (pos 1, pos 2). Next, we create a public method random Position() where we assign a new position to pipes if they have disappeared. Here we create the myPoints () scoring function.
 
+## The project also contains a compiled jar file to immediately test the game
+
 
 
